@@ -1,1 +1,1 @@
-# epam-learning_1
+# EPAM Learning
