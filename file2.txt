@@ -1,1 +1,3 @@
-Second commit on feature
+second chnageecho "Second commit on feature" > file2.txt
+git add file2.txt
+git commit -m "add file2 on feature branch"
